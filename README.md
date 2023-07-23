@@ -4,7 +4,7 @@
 	<summary>English</summary>
 	<ul>
 		<li>Create a repository `goit-markup-hw-01`.</li>
-		<li>Perform HTML markup of the page layout <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1<b></a>, without CSS styling.</li>
+		<li>Perform HTML markup of the page layout <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1</b></a>, without CSS styling.</li>
 		<li>Set up `GitHub Pages` and add a link to the live page in the header of the GitHub-repository.</li>
 	</ul>
 	
@@ -66,7 +66,7 @@
 <summary>Russian</summary>
  	<ul>
 		<li>Создай репозиторий `goit-markup-hw-01`.</li>
-		<li>Выполни HTML-разметку макета страницы <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1<b></a>, без CSS оформления.</li>
+		<li>Выполни HTML-разметку макета страницы <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1</b></a>, без CSS оформления.</li>
 		<li>Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку GitHub-репозитория.</li>
 	</ul>
 
