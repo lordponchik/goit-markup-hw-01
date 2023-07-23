@@ -1,7 +1,7 @@
 # Homework / Домашнее задание :clipboard:
-
+:us:
 <details>
-:us:	<summary><h2>English</h2></summary>
+	<summary>English</summary>
 	<ul>
 		<li>Create a repository `goit-markup-hw-01`.</li>
 		<li>Perform HTML markup of the page layout <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1</b></a>, without CSS styling.</li>
@@ -61,9 +61,9 @@
 
 **`«B16»`** The `<address>` tag is only used in the footer. 
 </details>
-:ru:
+:ukraine:
 <details>
-<summary><h2>Russian</h2></summary>
+<summary>Russian</summary>
  	<ul>
 		<li>Создай репозиторий `goit-markup-hw-01`.</li>
 		<li>Выполни HTML-разметку макета страницы <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1</b></a>, без CSS оформления.</li>
