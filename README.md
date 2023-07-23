@@ -1,7 +1,7 @@
 # Homework / Домашнее задание :clipboard:
-:us:
+
 <details>
-	<summary><h2>English</h2></summary>
+:us:	<summary><h2>English</h2></summary>
 	<ul>
 		<li>Create a repository `goit-markup-hw-01`.</li>
 		<li>Perform HTML markup of the page layout <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1</b></a>, without CSS styling.</li>
