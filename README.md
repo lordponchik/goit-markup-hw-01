@@ -1,7 +1,7 @@
-# Homework / Домашнее задание
-
+# Homework / Домашнее задание :clipboard:
+:us:
 <details>
-	<summary>English</summary>
+	<summary><h2>English</h2></summary>
 	<ul>
 		<li>Create a repository `goit-markup-hw-01`.</li>
 		<li>Perform HTML markup of the page layout <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1</b></a>, without CSS styling.</li>
@@ -35,8 +35,7 @@
 
 **`«B3»`** Tags are used according to their semantic meaning.
 
-**`«B4»`** HTML passes validation [**validator**](http://validator.w3.org/nu/)
-без ошибок.
+**`«B4»`** HTML passes validation [**validator**](http://validator.w3.org/nu/) no mistakes.
 
 **`«B5»`** The markup has tags to highlight the main structure of the page: `<header>`, `<main>` и `<footer>`.
 
@@ -62,8 +61,9 @@
 
 **`«B16»`** The `<address>` tag is only used in the footer. 
 </details>
+:ru:
 <details>
-<summary>Russian</summary>
+<summary><h2>Russian</h2></summary>
  	<ul>
 		<li>Создай репозиторий `goit-markup-hw-01`.</li>
 		<li>Выполни HTML-разметку макета страницы <a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1"><b>homework #1</b></a>, без CSS оформления.</li>
