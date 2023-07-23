@@ -58,9 +58,10 @@
 
 **`«B15»`** Groups of elements of the same type are collected in lists `<ul>`.
 
-**`«B16»`** The `<address>` tag is only used in the footer.
+**`«B16»`** The `<address>` tag is only used in the footer. </br>
 
-	<summary>Russian</summary>
+<summary>Russian</summary>
+ 
 - Создай репозиторий `goit-markup-hw-01`.
 - Выполни HTML-разметку макета страницы	[**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-		id=0%3A1>), без CSS оформления.
 - Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку GitHub-репозитория.
