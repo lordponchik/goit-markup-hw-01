@@ -2,10 +2,12 @@
 
 <details>
 	<summary>English</summary>
-	- Create a repository `goit-markup-hw-01`.
-	- Perform HTML markup of the page layout [**homework #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>), 	without CSS styling.
-	- Set up `GitHub Pages` and add a link to the live page in the header of the GitHub-repository.
-
+	<ul>
+		<li>Create a repository `goit-markup-hw-01`.</li>
+		<li>Perform HTML markup of the page layout [**homework #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>), 	without CSS styling.</li>
+		<li>Set up `GitHub Pages` and add a link to the live page in the header of the GitHub-repository.</li>
+	</ul>
+	
 ## Eligibility criteria for a mentor
 
 ### Project
@@ -58,13 +60,15 @@
 
 **`«B15»`** Groups of elements of the same type are collected in lists `<ul>`.
 
-**`«B16»`** The `<address>` tag is only used in the footer. </br>
-
+**`«B16»`** The `<address>` tag is only used in the footer. 
+</details>
+<details>
 <summary>Russian</summary>
- 
-- Создай репозиторий `goit-markup-hw-01`.
-- Выполни HTML-разметку макета страницы	[**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-		id=0%3A1>), без CSS оформления.
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку GitHub-репозитория.
+ 	<ul>
+		<li>Создай репозиторий `goit-markup-hw-01`.</li>
+		<li>Выполни HTML-разметку макета страницы [**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>), без CSS оформления.</li>
+		<li>Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку GitHub-репозитория.</li>
+	</ul>
 
 ## Критерии приёма работы наставником
 
