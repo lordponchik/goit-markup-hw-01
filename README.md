@@ -1,25 +1,68 @@
+# Homework / Домашнее задание
+
 <details>
-	<summary>Нажми на меня</summary>
-	Скрытый текст!
-</details>
-Основной текст
+	<summary>English</summary>
+- Create a repository `goit-markup-hw-01`.
+- Perform HTML markup of the page layout [**homework #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>), without CSS styling.
+- Set up `GitHub Pages` and add a link to the live page in the header of the GitHub-repository.
 
->>>
+## Eligibility criteria for a mentor
 
-Скрытый текст
+### Project
 
-<<<
+**`«A1»`** The main HTML file is called `index.html`.
 
-Продолжение основного текста
+**`«A2»`** At the root of the project there is a folder `images` with images.
 
-# Домашнее задание
+**`«A3»`** There are no capital letters, spaces and transliteration in the file names, only letters and words of the English language.
 
+**`«A4»`** Source code formatted with `Prettier`.
+
+**`«A5»`** All images and text content are taken from the layout.
+
+**`«A6»`** All bitmaps are optimized using
+[squoosh](https://squoosh.app/).
+
+**`«A7»`** The code is written as follows [**manual**](https://codeguide.co/).
+
+### Markup
+
+**`«B1»`** The `Studio` page markup is typed in the file `index.html`.
+
+**`«B2»`** Completed HTML markup of all layout elements.
+
+**`«B3»`** Tags are used according to their semantic meaning.
+
+**`«B4»`** HTML passes validation [**validator**](http://validator.w3.org/nu/)
+без ошибок.
+
+**`«B5»`** The markup has tags to highlight the main structure of the page: `<header>`, `<main>` и `<footer>`.
+
+**`«B6»`** The logo in the header and footer is a link with text, not an image.
+
+**`«B7»`** The `<nav>` tag is used once on the page - in the header.
+
+**`«B8»`** Contacts in the header (mail and phone) are outside the `<nav>` tag.
+
+**`«B9»`** `<h1>` tag used once per page.
+
+**`«B10»`** The element with the text `"Order a service"` is a button with `type="button"`.
+
+**`«B11»`** Section headings are tagged `<h2>`.
+
+**`«B12»`** The `<img>` tags have size attributes, at least `width`.
+
+**`«B13»`** `<img>` tags have an `alt` attribute that is filled with a short description of what is shown in the picture.
+
+**`«B14»`** Images are exported from the layout in the format `jpg`.
+
+**`«B15»`** Groups of elements of the same type are collected in lists `<ul>`.
+
+**`«B16»`** The `<address>` tag is only used in the footer.
+	<summary>Russian</summary>
 - Создай репозиторий `goit-markup-hw-01`.
-- Выполни HTML-разметку макета страницы
-  [**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
-  без CSS оформления.
-- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку
-  GitHub-репозитория.
+- Выполни HTML-разметку макета страницы	[**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-		id=0%3A1>), без CSS оформления.
+- Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку GitHub-репозитория.
 
 ## Критерии приёма работы наставником
 
@@ -78,3 +121,7 @@
 **`«B15»`** Группы однотипных элементов собраны в списки `<ul>`.
 
 **`«B16»`** Тег `<address>` использован только в футере.
+</details>
+
+
+
