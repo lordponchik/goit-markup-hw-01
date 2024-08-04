@@ -4,15 +4,12 @@
 
 
 * 🇺🇸 [English](#en)
-* 🇺🇦 [Ukrainian](#ua)
+* 🇺🇦 [Ukrainian](#uk)
 * 🇷🇺 [Russian](#ru)
 
 --- 
 
-<div style="display: flex;align-items: center;justify-content: space-between;">
 <h3 id="en">📚 EN 📚</h3>
-<a href="#home">⬆ Home</a>
-</div>
 
 <ul>
 		<li>Create a repository `goit-markup-hw-01`.</li>
@@ -76,11 +73,7 @@
 ---
 ---
 
-
-<div style="display: flex;align-items: center;justify-content: space-between;">
-<h3 id="uk">📚 UK 📚</h3> 
-<a href="#home">⬆ Home</a>
-</div>
+<h3 id="uk">📚 UK 📚 <a href="#home">⬆ Home ⬆</a></h3> 			
 
 <ul>
  	<li>Створи репозиторій `goit-markup-hw-01`.</li>
@@ -149,10 +142,7 @@
 ---
 ---
 
-<div style="display: flex;align-items: center;justify-content: space-between;">
-<h3 id="ru">📚 RU 📚</h3>
-<a href="#home">⬆ Home</a>
-</div>
+<h3 id="ru">📚 RU 📚 <a href="#home">⬆ Home ⬆</a></h3> 
 
 <ul>
 		<li>Создай репозиторий `goit-markup-hw-01`.</li>
